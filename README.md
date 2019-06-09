@@ -1,1 +1,1 @@
-# Congratulations! You are making your brand new GitHub Page
+# Congratulations! You are making your brand-new GitHub Page
